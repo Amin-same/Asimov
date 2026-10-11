@@ -86,7 +86,7 @@
     6.0,
     6.0
   ],
-  "action_scale": 0.15,
+  "action_scale": 0.2,
   "control_dt": 0.02,
   "observation_size": 58
 }
